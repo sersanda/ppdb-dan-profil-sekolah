@@ -1,0 +1,6 @@
+Disarankan menggunakan PHP Versi 7.4
+
+untuk Login admin : (halaman utama/auth/admin)
+
+username : admin@gmail.com
+password : admin
